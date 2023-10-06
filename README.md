@@ -1,13 +1,1 @@
-# belly-button-challenge
 
-https://www.reddit.com/r/vscode/comments/zjmui8/my_run_button_disappeared_in_vscode/
-https://d3js.org/getting-started
-https://plotly.com/javascript/colorscales/#earth-colorscale
-https://github.com/madinalikes/Belly-Button-Challenge/blob/main/index.html
-https://github.com/mychele-larson/Belly-Button-Challenge/blob/main/static/js/app2.js
-https://www.w3schools.com/howto/howto_js_dropdown.asp
-https://plotly.com/python/discrete-color/
-https://plotly.com/javascript/configuration-options/
-https://www.w3schools.com/js/js_debugging.asp
-https://plotly.com/javascript/colorscales/#earth-colorscale
-https://plotly.com/javascript/
